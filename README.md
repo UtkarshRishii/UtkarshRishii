@@ -7,10 +7,10 @@
 </div>
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║  16 y/o Developer Engineering Intelligence From First Principles  ║
-║  Building AI That Thinks, Speaks, and Evolves                     ║
-╚═══════════════════════════════════════════════════════════════════╝
+                                 ╔═══════════════════════════════════════════════════════════════════╗
+                                 ║  16 y/o Developer Engineering Intelligence From First Principles  ║
+                                 ║  Building AI That Thinks, Speaks, and Evolves                     ║
+                                 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
