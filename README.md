@@ -1,77 +1,219 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Utkarsh%20Rishi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Next%20Era%20of%20Intelligence&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
+```
+██╗   ██╗████████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
+██║   ██║╚══██╔══╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██║  ██║
+██║   ██║   ██║   █████╔╝ ███████║██████╔╝███████╗███████║
+██║   ██║   ██║   ██╔═██╗ ██╔══██║██╔══██╗╚════██║██╔══██║
+╚██████╔╝   ██║   ██║  ██╗██║  ██║██║  ██║███████║██║  ██║
+ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Founder+%40+ArcDevs;Building+System-Level+AI;16+y%2Fo+AI+Engineer;Engineering+Intelligence" alt="Typing SVG" />
-    </a>
-  </h3>
+### `UTKARSH RISHI`
+**AI ARCHITECT • FOUNDER @ ARCDEVS • BUILDING INTELLIGENT SYSTEMS**
 
-  <p>
-     <a href="#"><img src="https://img.shields.io/badge/Focus-AGI%20%26%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Focus"></a>
-     <a href="#"><img src="https://img.shields.io/badge/Role-Founder-blue?style=for-the-badge&logo=probot&logoColor=white" alt="Role"></a>
-     <a href="#"><img src="https://img.shields.io/badge/Location-India_IN-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"></a>
-  </p>
+<img src="https://img.shields.io/badge/AGE-16-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=" alt="Age"/> <img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-FF9933?style=for-the-badge" alt="Location"/> <img src="https://img.shields.io/badge/FOCUS-INTELLIGENCE_ENGINEERING-00FF00?style=for-the-badge" alt="Focus"/>
+
+---
+
+<p align="center">
+  <em>"AI shouldn't feel artificial. It should feel inevitable."</em>
+</p>
+
 </div>
 
 <br/>
 
+## `> WHOAMI`
+
+**I don't just *use* AI — I engineer intelligence from the ground up.**
+
+At 16, I'm building the future of AI systems through **ArcDevs**, creating assistants that think, remember, and evolve. My work spans custom LLMs, voice-based systems, and end-to-end AI ecosystems that blur the line between tool and intelligence.
+
+```python
+class UtkarshRishi:
+    def __init__(self):
+        self.role = "AI Architect"
+        self.age = 16
+        self.location = "India 🇮🇳"
+        self.company = "ArcDevs"
+        self.mission = "Build AI that feels alive, fast, and personal"
+        
+    def current_focus(self):
+        return [
+            "Custom AI assistants with personality",
+            "LLM architecture & optimization",
+            "Voice-based AI pipelines",
+            "System-level AI integration",
+            "Memory & reasoning frameworks"
+        ]
+    
+    def philosophy(self):
+        return "Speed, obsession, future-first"
+```
+
+<br/>
+
+## `> ACTIVE_PROJECTS`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦅 **FALCON AI**
+> **Next-gen AI assistant engineered for speed & reasoning**
+
+A powerful assistant that combines rapid inference with deep contextual understanding. Built for real-world deployment with emphasis on performance optimization and natural interaction.
+
+**Stack:** Custom inference pipeline, optimized transformers, streaming responses
+
+</td>
+<td width="50%">
+
+### 🧠 **ArcMind LLM**
+> **Custom language model with memory & autonomy**
+
+Building a large language model from scratch with focus on long-term memory, reasoning chains, and autonomous task execution. Designed for specialized intelligence, not generic responses.
+
+**Research Areas:** Attention mechanisms, memory architectures, fine-tuning
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 **RishiAI**
+> **Personal AI assistant with system-level awareness**
+
+My own AI companion that integrates deeply with system operations. Minimal interface, maximum intelligence. Handles everything from code review to creative brainstorming.
+
+**Features:** System hooks, context persistence, voice interaction
+
+</td>
+<td width="50%">
+
+### ⚡ **More Coming Soon**
+> **The best is yet to be built**
+
+Currently experimenting with multimodal AI, real-time learning systems, and AI-to-AI communication protocols. Building in public, failing fast, iterating faster.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> TECH_ARSENAL`
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-709b17d0-14e3-4d7a-9a67-c452427f7a7d.gif" width="100%" />
-</div>
 
----
+### **CORE LANGUAGES**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🚀 **About Me**
+### **AI/ML FRAMEWORKS**
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FF6F00?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-> **"AI shouldn’t feel artificial. It should feel inevitable."**
+### **SPECIALIZATIONS**
+![LLM Architecture](https://img.shields.io/badge/LLM_ARCHITECTURE-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-1E90FF?style=for-the-badge)
+![Model Optimization](https://img.shields.io/badge/MODEL_OPTIMIZATION-32CD32?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/VOICE_AI-FF1493?style=for-the-badge)
 
-I’m **Utkarsh Rishi**, a 16-year-old developer from India 🇮🇳 and the **Founder of ArcDevs**. I don't just use APIs—I engineer intelligence from the kernel up. My work bridges the gap between raw LLM power and real-world system autonomy.
+### **SYSTEMS & TOOLS**
+![APIs](https://img.shields.io/badge/API_DESIGN-009688?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AUTOMATION-FFA500?style=for-the-badge)
+![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-8B00FF?style=for-the-badge)
 
-- 🧠 **Building:** Custom AI assistants & neural frameworks.
-- 🦅 **Founder of:** [ArcDevs](https://github.com/ArcDevs)
-- 🎯 **Mission:** Creating AI that feels alive, fast, and personal.
-- ⚡ **Vibe:** I build AI the way others build startups — **fast, obsessed, and future-first.**
-
----
-
-### 🛠️ **The Arsenal (Tech Stack)**
-
-| **Core & Systems** | **AI & Intelligence** | **Tools & Architecture** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
----
-
-### 🧩 **Current Intelligence Systems**
-
-| Project | Description | Status |
-| :--- | :--- | :---: |
-| **🦅 FALCON AI** | A high-velocity AI assistant designed for speed, reasoning, and real-time execution. | `Active` |
-| **🧠 ArcMind LLM** | Custom large language model architecture focused on long-term memory and autonomy. | `Research` |
-| **🤖 RishiAI** | My personal system-aware assistant. Minimal, smart, and integrated into my OS. | `Private` |
-
----
-
-<div align="center">
-  <h3>📈 Digital Footprint</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
+## `> METHODOLOGY`
+
+```javascript
+const buildPhilosophy = {
+  speed: "Ship fast, iterate faster",
+  obsession: "Deep dive into every layer of the stack",
+  future: "Build what doesn't exist yet",
+  quality: "No shortcuts on intelligence",
+  
+  approach: function() {
+    while (true) {
+      this.research();
+      this.prototype();
+      this.test();
+      this.optimize();
+      this.ship();
+    }
+  }
+}
+```
+
+<br/>
+
+## `> STATS_&_ACTIVITY`
+
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ArcDevs-Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff00&text_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
+
+</div>
+
+<br/>
+
+## `> CONNECT_PROTOCOL`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+**Open to:** Collaboration • Research Discussions • AI Partnerships • Cool Projects
+
+</div>
+
+<br/>
+
+## `> CURRENT_STATUS`
+
+```bash
+$ system_status --utkarsh
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATUS: BUILDING
+FOCUS: Custom LLM training pipeline
+READING: Latest research on attention mechanisms  
+LISTENING: Lo-fi beats while debugging transformers
+MOOD: Obsessed with making AI feel more alive
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+<div align="center">
+
+---
+
+### `⚡ FUN_FACT`
+
+**I build AI the way others build startups — fast, obsessed, and future-first.**
+
+---
+
+<sub>**If you like what I'm building, star the repos and follow the journey** ⭐</sub>
+
+<br/>
+
+**© 2025 Utkarsh Rishi • ArcDevs • Building Intelligence**
+
 </div>
