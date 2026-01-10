@@ -7,10 +7,10 @@
 </div>
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════════════╗
 ║  16 y/o Developer Engineering Intelligence From First Principles  ║
-║  Building AI That Thinks, Speaks, and Evolves                ║
-╚══════════════════════════════════════════════════════════════╝
+║  Building AI That Thinks, Speaks, and Evolves                     ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -210,7 +210,7 @@ graph LR
 ## 🎨 **FUN FACTS**
 
 - 🧠 I debug AI models the way musicians tune instruments — by **feeling** when something's off
-- ⚡ My fastest model response time: **47ms** (still optimizing)
+- ⚡ My fastest model response time: **468ms** (still optimizing)
 - 🌍 Building from India, shipping globally
 - 🎯 2025 Goal: Contribute to open-source AGI research
 - 🔥 I measure productivity in models trained, not lines of code written
