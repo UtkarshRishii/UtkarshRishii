@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mr. Rishi
+# Hi there 👋 I'm UtkarshRishii
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=00C2FF&background=0&center=true&vCenter=true&width=700&lines=Hi,+I%27m+UtkarshRishii;Building+beautiful+things+with+code+%26+data)
 
